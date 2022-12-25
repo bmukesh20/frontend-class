@@ -1,0 +1,43 @@
+.float_right{
+    float:right;
+}
+
+.float_left{
+    float:left;
+}
+
+.lime{
+    background-color: #adff2f;
+    color: #9980fa;
+
+}
+.skin{
+  background-color: #f8efba ;
+
+}
+.green{
+    background-color: #00ff00; 
+    color: #9980fa;
+}
+.lightblue{
+   background-color: #d1d8e0;
+   color: #9980fa;
+}
+section{
+    height:300px;
+    width: 500px;
+}
+header{
+    border:7px solid red;
+    height: 80px;
+    background-color: #8c95b1;
+}
+.black_background{
+    border:2px solid black ;
+    display: inline-block;
+    height: 50px;
+    width: 110px;
+}
+body{
+    background-color: #aaa69d;
+}
