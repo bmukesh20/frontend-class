@@ -18,7 +18,7 @@ body{
 
 .btn{
     border: none;
-    background-color: #b8abab;
+    background-color: rgb(184, 171, 171);
     cursor: pointer;
     padding: 10px 20px;
 }
